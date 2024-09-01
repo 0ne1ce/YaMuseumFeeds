@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "khSkAVkb16YwMQnSADMHTyHbY3v5B87KN7nKoAeG46PDyWD9HXb1sqlovuin3yLaY7xKdINuXioPPqACrcSlMg==",
+  "success": true,
+  "projectFilePath": "/Users/alexey/RiderProjects/MuseumNew/MuseumNew/MuseumNew.csproj",
+  "expectedPackageFiles": [
+    "/Users/alexey/.nuget/packages/awssdk.core/3.7.400.11/awssdk.core.3.7.400.11.nupkg.sha512",
+    "/Users/alexey/.nuget/packages/awssdk.s3/3.7.402.2/awssdk.s3.3.7.402.2.nupkg.sha512",
+    "/Users/alexey/.nuget/packages/awssdk.secretsmanager/3.7.102.54/awssdk.secretsmanager.3.7.102.54.nupkg.sha512",
+    "/Users/alexey/.nuget/packages/awssdk.secretsmanager.caching/1.0.6/awssdk.secretsmanager.caching.1.0.6.nupkg.sha512",
+    "/Users/alexey/.nuget/packages/microsoft.extensions.caching.abstractions/7.0.0/microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "/Users/alexey/.nuget/packages/microsoft.extensions.caching.memory/7.0.0/microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "/Users/alexey/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/alexey/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "/Users/alexey/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "/Users/alexey/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
