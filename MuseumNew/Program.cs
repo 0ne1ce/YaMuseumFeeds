@@ -10,10 +10,8 @@ using Amazon.S3;
 using Amazon.S3.Model;
 
 namespace Function;
-
 public class Handler
 {
-    
     private const string bucketName = "yandex-museum";
     private const string googleKeyName = "feeds/google/google_merchant_center_feed.xml";
     private const string yandexKeyName = "feeds/yandex/yandex_products_feed.xml";
